@@ -5,7 +5,6 @@ function __autoload($className) {
 }
 
 
-
 /*
  * Константы
  * 

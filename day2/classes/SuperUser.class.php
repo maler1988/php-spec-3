@@ -1,0 +1,5 @@
+<?
+class SuperUser extends User {
+
+}
+?>
